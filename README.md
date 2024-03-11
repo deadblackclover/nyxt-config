@@ -1,0 +1,2 @@
+# nyxt-config
+Nyxt configuration
